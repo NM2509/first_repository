@@ -1,4 +1,4 @@
-# first_repositor
+# first_repository
 
 # Hi, I am adding some text 
 
